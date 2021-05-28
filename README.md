@@ -1,3 +1,5 @@
 # RetargetTest
 
-Developed with Unreal Engine 4
+通过重定向，成功将als的假人替换为了ue4自带的假人，所有功能正常。
+
+下一步将会是将als重定向至自己的模型上。
